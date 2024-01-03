@@ -1,0 +1,3 @@
+### GetDamageSummaryByDate
+
+GET http://localhost:3333/damage-summary-by-date?dateStart=2023-12-22&dateEnd=2024-01-05
