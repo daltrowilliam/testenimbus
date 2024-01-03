@@ -1,0 +1,10 @@
+# Arquivos de compilação
+/dist
+/tmp
+/out-tsc
+
+# Dependências
+/node_modules
+
+# Outros
+*.log
